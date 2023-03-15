@@ -22,3 +22,9 @@ this guy came on my question I followed the instructions and works perfectly
 https://www.google.com/search?q=zsh+path++mysql&sxsrf=AJOqlzVBr_ELZQHlNZvF8X_e-uWv5VIC6Q%3A1678796875788&ei=S2gQZM7aL9GHxc8PwaOmkAc&ved=0ahUKEwiOrLnbtdv9AhXRQ_EDHcGRCXIQ4dUDCA8&uact=5&oq=zsh+path++mysql&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BAgjECc6CAgAEIAEEMsBSgQIQRgAUOMOWIcuYNMxaAFwAXgAgAHXAYgB1QiSAQUzLjQuMpgBAKABAcgBCMABAQ&sclient=gws-wiz-serp#fpstate=ive&vld=cid:e8213921,vid:oxToe-4c6OM
 
 now I can access mysql with command line
+
+### codespace
+
+Today I heard about codespace have you? such an amazing thing 
+
+code space is a virtual vscode 😳 that was my face today when I saw it for the first time
