@@ -23,6 +23,11 @@ https://www.google.com/search?q=zsh+path++mysql&sxsrf=AJOqlzVBr_ELZQHlNZvF8X_e-u
 
 now I can access mysql with command line
 
+I don't know why but didn't work at all  I'm here from 20:00 till 22:02 and I saw a lot of videos hot to fix the problem when came this across
+
+source zshrc  after typing that Enter and quit iterm when I wrote:
+echo $PATH came the whole path including mysql now I can say it works and I can sleep well
+ 
 ### codespace
 
 Today I heard about codespace have you? such an amazing thing 
