@@ -79,5 +79,9 @@ VALUES
     ('Tocantins', 'TO', 'North', 1.55)
     
     Pretty cool 😎 
+    
+    Today I covered the crud- create rename update and delete 
+    
+    
 
 
